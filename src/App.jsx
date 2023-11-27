@@ -1,6 +1,7 @@
 // Components
 import Button from "./components/Button";
 import Card from "./components/Card";
+
 // Styles
 import "./sass/App.scss";
 // Icons
